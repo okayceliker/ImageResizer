@@ -1,0 +1,72 @@
+C:\Users\Furkan\Documents\Visual Studio 2017\Projects\ResimBoyutlandırma\ResimBoyutlandırma\bin\Debug\ResimBoyutlandırma.exe
+C:\Users\Furkan\Documents\Visual Studio 2017\Projects\ResimBoyutlandırma\ResimBoyutlandırma\bin\Debug\ResimBoyutlandırma.pdb
+C:\Users\Furkan\Documents\Visual Studio 2017\Projects\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Documents\Visual Studio 2017\Projects\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Form1.resources
+C:\Users\Furkan\Documents\Visual Studio 2017\Projects\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Properties.Resources.resources
+C:\Users\Furkan\Documents\Visual Studio 2017\Projects\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csproj.GenerateResource.Cache
+C:\Users\Furkan\Documents\Visual Studio 2017\Projects\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Documents\Visual Studio 2017\Projects\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.exe
+C:\Users\Furkan\Documents\Visual Studio 2017\Projects\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.pdb
+E:\Okay Çeliker\Ders Dışı Çalışma\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.exe
+E:\Okay Çeliker\Ders Dışı Çalışma\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.pdb
+E:\Okay Çeliker\Ders Dışı Çalışma\Proje\ResimBoyutlandırma\ResimBoyutlandırma\bin\Debug\ResimBoyutlandırma.exe
+E:\Okay Çeliker\Ders Dışı Çalışma\Proje\ResimBoyutlandırma\ResimBoyutlandırma\bin\Debug\ResimBoyutlandırma.pdb
+E:\Okay Çeliker\Ders Dışı Çalışma\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csprojResolveAssemblyReference.cache
+E:\Okay Çeliker\Ders Dışı Çalışma\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Form1.resources
+E:\Okay Çeliker\Ders Dışı Çalışma\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Properties.Resources.resources
+E:\Okay Çeliker\Ders Dışı Çalışma\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csproj.GenerateResource.Cache
+D:\Okay ÇELİKER\Proje\ResimBoyutlandırma\ResimBoyutlandırma\bin\Debug\ResimBoyutlandırma.exe
+D:\Okay ÇELİKER\Proje\ResimBoyutlandırma\ResimBoyutlandırma\bin\Debug\ResimBoyutlandırma.pdb
+D:\Okay ÇELİKER\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csprojResolveAssemblyReference.cache
+D:\Okay ÇELİKER\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Form1.resources
+D:\Okay ÇELİKER\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Properties.Resources.resources
+D:\Okay ÇELİKER\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csproj.GenerateResource.Cache
+D:\Okay ÇELİKER\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csproj.CoreCompileInputs.cache
+D:\Okay ÇELİKER\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.exe
+D:\Okay ÇELİKER\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.pdb
+D:\Okay Çeliker\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csprojResolveAssemblyReference.cache
+D:\Okay Çeliker\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Form1.resources
+D:\Okay Çeliker\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Properties.Resources.resources
+D:\Okay Çeliker\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csproj.GenerateResource.Cache
+D:\Okay Çeliker\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csproj.CoreCompileInputs.cache
+D:\Okay Çeliker\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.exe
+D:\Okay Çeliker\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.pdb
+D:\Okay Çeliker\Proje\ResimBoyutlandırma\ResimBoyutlandırma\bin\Debug\ResimBoyutlandırma.exe
+D:\Okay Çeliker\Proje\ResimBoyutlandırma\ResimBoyutlandırma\bin\Debug\ResimBoyutlandırma.pdb
+D:\Okay Çeliker\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csproj.ResolveComReference.cache
+D:\Okay Çeliker\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Cozunurluk.resources
+C:\Users\ogrenci\Desktop\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csproj.ResolveComReference.cache
+C:\Users\ogrenci\Desktop\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Form1.resources
+C:\Users\ogrenci\Desktop\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.exe
+C:\Users\ogrenci\Desktop\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.pdb
+C:\Users\ogrenci\Desktop\Proje\ResimBoyutlandırma\ResimBoyutlandırma\bin\Debug\ResimBoyutlandırma.exe
+C:\Users\ogrenci\Desktop\Proje\ResimBoyutlandırma\ResimBoyutlandırma\bin\Debug\ResimBoyutlandırma.pdb
+C:\Users\ogrenci\Desktop\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Hakkında.resources
+D:\Proje\ResimBoyutlandırma\ResimBoyutlandırma\bin\Debug\ResimBoyutlandırma.exe
+D:\Proje\ResimBoyutlandırma\ResimBoyutlandırma\bin\Debug\ResimBoyutlandırma.pdb
+D:\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csprojResolveAssemblyReference.cache
+D:\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Form1.resources
+D:\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Hakkında.resources
+D:\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Properties.Resources.resources
+D:\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csproj.GenerateResource.Cache
+D:\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csproj.CoreCompileInputs.cache
+D:\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.exe
+D:\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.pdb
+D:\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Quality.resources
+D:\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Boyutlandırma.resources
+D:\Projeler\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.exe
+D:\Projeler\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.pdb
+D:\Projeler\Proje\ResimBoyutlandırma\ResimBoyutlandırma\bin\Debug\ResimBoyutlandırma.exe
+D:\Projeler\Proje\ResimBoyutlandırma\ResimBoyutlandırma\bin\Debug\ResimBoyutlandırma.pdb
+D:\Projeler\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csprojResolveAssemblyReference.cache
+D:\Projeler\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Boyutlandırma.resources
+D:\Projeler\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Form1.resources
+D:\Projeler\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Hakkında.resources
+D:\Projeler\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Properties.Resources.resources
+D:\Projeler\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Quality.resources
+D:\Projeler\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.Yazdır.resources
+D:\Projeler\Proje\ResimBoyutlandırma\ResimBoyutlandırma\obj\Debug\ResimBoyutlandırma.csproj.GenerateResource.Cache
